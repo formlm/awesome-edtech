@@ -36,6 +36,7 @@ Tools for creating educational content, courses, and learning materials.
 - [Canva](https://www.canva.com/) — Design platform widely used for educational content creation.
 - [H5P](https://h5p.org/) — Open-source framework for creating interactive learning content.
 - [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) — Authoring toolkit for creating e-learning courses.
+- [WorkshopSkill](https://workshopskill.com/en/) — Printable workshop activity folders with run sheets, prop cards, and debrief guides; CC BY 4.0, also available as AI agent skills.
 
 ## Learning Management Systems (LMS)
 
